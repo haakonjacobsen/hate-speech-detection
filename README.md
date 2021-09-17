@@ -1,5 +1,5 @@
 # Hate speech detection - By Haakon Jacobsen
-This project is a hate speech detection program developed as the main deliverable in the course TDT4310 - Intelligent Text Analytics and Language Understanding. The results from testing is documented in the attatched [paper](doc-paper.pdf). The program demonstrates how to detect hate speech, and is trained on the dataset of [Davidson et. al.](https://github.com/t-davidson/hate-speech-and-offensive-language). The program provides four RNN neural networks using combinations of LSTM/GRU and GloVe or Keras embedding. The program is configured to save the best performing model.
+This project is a hate speech detection program developed as the main deliverable in the course TDT4310 - Intelligent Text Analytics and Language Understanding. The results from testing is documented in the attatched [paper](doc-paper.pdf). The program demonstrates how to detect hate speech, and is trained on the dataset of [Davidson et. al.](https://github.com/t-davidson/hate-speech-and-offensive-language). The program provides four Recurrent Neural Networks (RNN) using a combinations of LSTM/GRU and GloVe or Keras embedding. The program is configured to save the best performing model.
 
 ## Setup
 To run the program you need to follow these steps:
